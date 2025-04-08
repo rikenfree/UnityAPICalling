@@ -124,5 +124,6 @@ You need to create a UI like the image (if provided), with:
 
 ⚠️ If **TextMeshPro (TMPro)** is not supported, use a standard **UI Text** component instead.
 [![How to Structure and Write JSON Files](https://img.youtube.com/vi/iiADhChRriM/0.jpg)](https://www.youtube.com/watch?v=iiADhChRriM)
+
 The link above likely explains how to structure and write **JSON files**.
 **JSON (JavaScript Object Notation)** is a lightweight data format used to store and exchange data.
