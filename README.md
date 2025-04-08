@@ -9,6 +9,7 @@ This guide will help you understand how to make API calls using **Unity (C#)** a
 > An API (Application Programming Interface) allows communication between different applications.  
 > In Unity, APIs are often used to send and receive data from a server.
 
+
 ---
 
 ## 2. Difference Between GET and POST Requests
@@ -108,6 +109,9 @@ Create a new C# script called `APIManager.cs` and add the following code:
 | 401 Unauthorized           | Ensure you have the correct API keys (if required)     |
 | 404 Not Found              | Verify the API endpoint URL                            |
 | 500 Internal Server Error  | Issue is on the server-side                            |
+
+![image (20)](https://github.com/user-attachments/assets/efac946e-26f6-4180-8f2d-2673cffda3fb)
+
 
 ---
 
